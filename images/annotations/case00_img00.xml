@@ -3,13 +3,13 @@
 	<Annotations>
 		<Annotation Name="Annotation 0" Type="Spline" PartOfGroup="None" Color="#F4FA58">
 			<Coordinates>
-				<Coordinate Order="0" X="1766.85315" Y="2985.22217" />
-				<Coordinate Order="1" X="46.854393" Y="2975.4585" />
-				<Coordinate Order="2" X="21.5230179" Y="2932.22266" />
-				<Coordinate Order="3" X="25.8780403" Y="2386.07983" />
-				<Coordinate Order="4" X="31.9873962" Y="1886.63843" />
-				<Coordinate Order="5" X="20.3391876" Y="1157.54395" />
-				<Coordinate Order="6" X="40.0534058" Y="680.90686" />
+				<Coordinate Order="0" X="1771.52356" Y="3017.91504" />
+				<Coordinate Order="1" X="54.8650742" Y="3047.55518" />
+				<Coordinate Order="2" X="-55.5502052" Y="2932.22266" />
+				<Coordinate Order="3" X="-10.1700249" Y="2386.07983" />
+				<Coordinate Order="4" X="-76.1567993" Y="1886.63843" />
+				<Coordinate Order="5" X="-15.7088776" Y="1161.54932" />
+				<Coordinate Order="6" X="-20.0267029" Y="672.896118" />
 				<Coordinate Order="7" X="360.480652" Y="813.084106" />
 				<Coordinate Order="8" X="528.704956" Y="813.084106" />
 				<Coordinate Order="9" X="692.923889" Y="821.094788" />
@@ -27,12 +27,12 @@
 				<Coordinate Order="21" X="2126.83569" Y="500.667542" />
 				<Coordinate Order="22" X="2251.00122" Y="396.528717" />
 				<Coordinate Order="23" X="2224.81763" Y="163.875824" />
-				<Coordinate Order="24" X="2264.2373" Y="29.5016384" />
-				<Coordinate Order="25" X="2479.30566" Y="28.037384" />
-				<Coordinate Order="26" X="2642.49829" Y="14.2140331" />
-				<Coordinate Order="27" X="2663.4751" Y="894.679077" />
-				<Coordinate Order="28" X="2670.96753" Y="1887.35327" />
-				<Coordinate Order="29" X="2655.05249" Y="2977.54517" />
+				<Coordinate Order="24" X="2264.2373" Y="-28.2423897" />
+				<Coordinate Order="25" X="2488.92969" Y="-58.5786591" />
+				<Coordinate Order="26" X="2731.23608" Y="9.54363251" />
+				<Coordinate Order="27" X="2733.53125" Y="890.008667" />
+				<Coordinate Order="28" X="2717.67163" Y="1887.35327" />
+				<Coordinate Order="29" X="2725.10864" Y="3038.2605" />
 			</Coordinates>
 		</Annotation>
 	</Annotations>
